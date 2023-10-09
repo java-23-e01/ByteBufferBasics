@@ -1,7 +1,7 @@
 
 ### Exercise 1: ByteBuffer Basics
 
-**Time Estimate:** 15 minutes
+**Time Estimate:** 20 minutes
 
 **Description:** Create a Java program that demonstrates basic usage of `ByteBuffer`. You'll initialize a `ByteBuffer`, put and retrieve different data types (e.g., int, char, double) into/from it, and print the data to the console.
 
